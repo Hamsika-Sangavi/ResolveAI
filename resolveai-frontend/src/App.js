@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import axios from "axios";
 import "./App.css";
 
-const API = "http://127.0.0.1:8000";
+const API = "https://resolveai-hrol.onrender.com";
 
 function App() {
   const [page, setPage] = useState("home");
