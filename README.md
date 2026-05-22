@@ -6,7 +6,8 @@ ResolveAI is a full stack web application that uses Natural Language Processing 
 ---
 
 ## 🚀 Live Demo
-> Coming soon after deployment
+> Frontend: https://resolveai-frontend.vercel.app
+> Backend API: https://resolveai-hrol.onrender.com/docs
 
 ---
 
